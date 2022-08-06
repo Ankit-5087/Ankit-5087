@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankit-5087
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning webDev
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning WebDev
+- 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me on LinkedIn ( https://www.linkedin.com/in/ankit-raj-b1a871217/)
 
 <!---
