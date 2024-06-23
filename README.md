@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit-5087
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning WebDev
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me on LinkedIn ( https://www.linkedin.com/in/ankit-raj-b1a871217/)
 
